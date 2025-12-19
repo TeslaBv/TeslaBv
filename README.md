@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Hiram+Cruz;Full+Stack+Software+Engineer;Angular+19+%26+NestJS+Developer;Cisco+Certified+(CCNA+%2B+CyberOps)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=46ca4b&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Hiram+Cruz;Full+Stack+Software+Engineer;Angular+19+%26+NestJS+Developer;Cisco+Certified+(CCNA+%2B+CyberOps)" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -35,7 +35,7 @@
 
 ---
 
-### 👨‍💻 The Hybrid Developer
+### 👨‍💻 FullStack Developer
 
 I am a **Full Stack Software Engineer** based in **Oaxaca, Mexico** 🇲🇽 with a specialized profile. Unlike typical developers, **I don't just write code; I understand the network it travels on.**
 
@@ -52,7 +52,7 @@ Currently, I am a **Full Stack Developer** at **Cosmos SoftWorks**, architecting
 **Frontend & Mobile**
 <br>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,tailwind,bootstrap,react,ionic,figma" />
+  <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,tailwind,bootstrap,react,figma" />
 </a>
 
 <br><br>
