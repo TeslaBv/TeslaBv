@@ -14,11 +14,17 @@
   </a>
 </div>
 
+<div align="center">
+  <br>
+  <code> ᗧ • • • • • • • • • 👻 • • • • 👻 </code>
+  <br><br>
+</div>
+
 ---
 
 ### 👨‍💻 The Hybrid Developer: Code + Infrastructure
 
-I am a **Full Stack Software Engineer** based in **Oaxaca, Mexico** 🇲🇽 with a unique background. Unlike typical developers, I don't just write code; I understand the network it travels on.
+I am a **Full Stack Software Engineer** based in **Oaxaca, Mexico** 🇲🇽. Unlike typical developers, I don't just write code; I understand the network it travels on.
 
 With a strong foundation in **Computer Systems** and **Cisco Certifications (CCNA & CyberOps)**, I bridge the gap between complex backend logic, frontend usability, and secure infrastructure.
 
@@ -26,14 +32,9 @@ Currently, I am a **Full Stack Developer** at **Cosmos SoftWorks**, architecting
 
 <br>
 
-### 🚀 What I bring to the table
-
-| **Domain** | **Focus** |
-| :--- | :--- |
-| **Frontend** | Building high-performance SPAs with **Angular 19** (Signals, Standalone), TailwindCSS, and PrimeNG. |
-| **Backend** | Designing scalable Microservices with **NestJS**, utilizing **RabbitMQ** for event-driven communication. |
-| **DevOps** | Containerization with **Docker**, object storage with **MinIO**, and secure deployment strategies. |
-| **Network** | Deep understanding of routing, switching, and security protocols (**Cisco CCNA**). |
+<div align="center">
+  <img src="https://raw.githubusercontent.com/TeslaBv/TeslaBv/output/snake.svg" alt="Snake animation" width="100%" />
+</div>
 
 <br>
 
@@ -47,8 +48,6 @@ Currently, I am a **Full Stack Developer** at **Cosmos SoftWorks**, architecting
   </a>
 </div>
 
-<br>
-
 **Backend, Cloud & AI**
 <br>
 <div align="left">
@@ -56,8 +55,6 @@ Currently, I am a **Full Stack Developer** at **Cosmos SoftWorks**, architecting
     <img src="https://skillicons.dev/icons?i=nestjs,nodejs,python,flask,fastapi,docker,rabbitmq,tensorflow" />
   </a>
 </div>
-
-<br>
 
 **Databases & Tools**
 <br>
@@ -71,20 +68,45 @@ Currently, I am a **Full Stack Developer** at **Cosmos SoftWorks**, architecting
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TeslaBv&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeslaBv&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="150" alt="languages graph" />
-</div>
-
-<div align="center">
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TeslaBv&theme=tokyonight&hide_border=true" height="150" alt="streak graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=TeslaBv&theme=tokyonight&no-bg=true&margin-w=4" alt="github trophies" />
 </div>
 
 <br>
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TeslaBv&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeslaBv&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="180" alt="languages graph" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=TeslaBv&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="180" alt="streak graph" />
+</div>
+
+<br>
+
+---
+
+### 🎧 Vibe & Coding Mode
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="coding cat" />
+      </td>
+      <td>
+         <a href="https://spotify-recently-played-readme.vercel.app/api?user=shurz7w7">
+          <img src="https://spotify-recently-played-readme.vercel.app/api?user=shurz7w7&count=1" alt="Spotify Recently Played" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <br>
   <i>"I create bugs... wait, I mean features. Definitely features."</i> 👾
 </div>
