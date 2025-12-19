@@ -88,5 +88,5 @@ Currently, I am a **Full Stack Developer** at **Cosmos SoftWorks**, architecting
 <br>
 
 <div align="center">
-  <i>"I create bugs... wait, I mean features. Definitely features."</i> 👾
+  <i>"To production... and beyond!"</i> 👾
 </div>
