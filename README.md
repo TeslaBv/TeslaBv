@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=46ca4b&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Hiram+Cruz;Full+Stack+Software+Engineer;Angular+19+%26+NestJS+Developer;Cisco+Certified+(CCNA+%2B+CyberOps)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=46ca4b&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Hiram+Cruz;Full+Stack+Software+Engineer;Application+Support+Engineer;Angular+19+%26+NestJS+Developer;Cisco+Certified+(CCNA+%2B+CyberOps)" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -35,9 +35,9 @@
 
 ---
 
-### 👨‍💻 FullStack Developer
+### 👨‍💻 FullStack Developer & Support Engineer
 
-I am a **Full Stack Software Engineer** based in **Oaxaca, Mexico** 🇲🇽. 
+I am a **Full Stack Software Engineer** and **Application Support Engineer** based in **Oaxaca, Mexico** 🇲🇽. 
 
 With a strong foundation in **Computer Systems** and **Cisco Certifications (CCNA & CyberOps)**, I bridge the gap between complex backend logic, frontend usability, and secure infrastructure.
 
