@@ -37,7 +37,7 @@
 
 ### 👨‍💻 FullStack Developer
 
-I am a **Full Stack Software Engineer** based in **Oaxaca, Mexico** 🇲🇽 with a specialized profile. Unlike typical developers, **I don't just write code; I understand the network it travels on.**
+I am a **Full Stack Software Engineer** based in **Oaxaca, Mexico** 🇲🇽. 
 
 With a strong foundation in **Computer Systems** and **Cisco Certifications (CCNA & CyberOps)**, I bridge the gap between complex backend logic, frontend usability, and secure infrastructure.
 
