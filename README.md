@@ -77,13 +77,11 @@ Currently, I am a **Full Stack Developer** at **Cosmos SoftWorks**, architecting
 
 ---
 
-### 📊 GitHub Analytics
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=TeslaBv&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=TeslaBv&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=TeslaBv&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TeslaBv&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="160" alt="stats graph" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeslaBv&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="160" alt="languages graph" />
-</div>
 
 <br>
 
