@@ -270,7 +270,7 @@ Interfaz web experimental para control mediante gestos faciales y manuales.
 💼 Repositorios Destacados
 <div align="center">
   <a href="https://github.com/TeslaBv/srl_ui">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TeslaBv&repo=srl_ui&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=46ca4b&icon_color=46ca4b&text_color=c9d1d9&locale=es" />
+    <img src="https://img.lenso.ai/blog/find-location-from-a-photo/find-location-from-a-photo.jpg?updatedAt=1725441118941&tr=w-1500,h-auto" />
   </a>
   <a href="https://github.com/TeslaBv/Sustent-arte">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=TeslaBv&repo=Sustent-arte&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=46ca4b&icon_color=46ca4b&text_color=c9d1d9&locale=es" />
