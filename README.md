@@ -244,21 +244,11 @@ Interfaz web experimental para control mediante gestos faciales y manuales.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📊 Estadísticas de GitHub
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=TeslaBv&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=TeslaBv&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=TeslaBv&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=TeslaBv&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
-</div>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=TeslaBv&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=46ca4b&line=46ca4b&point=c9d1d9" />
-</div>
-
-<br>
-
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 ## 📈 Gráfico de Contribuciones
