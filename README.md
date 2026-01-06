@@ -246,8 +246,9 @@ Interfaz web experimental para control mediante gestos faciales y manuales.
 
 ## 📊 Estadísticas de GitHub
 
+<div align="center">
 ![](https://github-readme-stats.vercel.app/api?username=TeslaBv&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-
+</div>
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeslaBv&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=46ca4b&text_color=c9d1d9&langs_count=10&locale=es" />
   <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=TeslaBv&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=46ca4b&line=46ca4b&point=c9d1d9" />
@@ -335,60 +336,9 @@ Interfaz web experimental para control mediante gestos faciales y manuales.
 
 <br>
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" />
-</div>
-
-<br>
-
-### 💬 Pregúntame Sobre
-
-```javascript
-const expertise = {
-    backend: ["NestJS", "Microservicios", "API RESTful", "WebSockets", "Optimización de BD"],
-    frontend: ["Angular 19", "TypeScript", "Ionic 8", "Responsive Design", "PrimeNG"],
-    mobile: ["Aplicaciones Híbridas", "Capacitor", "PWA"],
-    devops: ["Docker", "CI/CD", "Nginx", "MinIO"],
-    ai: ["TensorFlow", "Visión por Computadora", "Deep Learning", "Keras"],
-    networking: ["CCNA", "Seguridad de Redes", "CyberOps", "Protocolos de Red"],
-    databases: ["PostgreSQL", "MySQL", "TypeORM", "Diseño de Esquemas"]
-};
-```
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div align="center">
-  
-  ### 💭 Frase del Día
-  
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-  
-  <br><br>
-  
-  ### ⚡ Dato Curioso
-  
-  *"Primero resuelve el problema. Luego escribe el código."* - John Johnson
-  
   <br>
   
   <i>"¡A producción... y más allá!"</i> 👾🚀
   
   <br><br>
-  
-  ![Contador de Visitas](https://profile-counter.glitch.me/TeslaBv/count.svg)
-  
-  <br>
-  
-  **⭐ Hecho con 💚 por [Hiram Cruz](https://github.com/TeslaBv) desde Oaxaca, México 🇲🇽**
-  
-</div>
-
-<br>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
