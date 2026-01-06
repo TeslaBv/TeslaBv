@@ -39,7 +39,6 @@
     <tr>
       <td align="center" width="33%">
         <img height="120" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="coding cat" />
-        <br><b>🎯 Modo Desarrollo</b>
       </td>
       <td align="center" width="34%">
         <a href="https://spotify-recently-played-readme.vercel.app/api?user=shurz7w7">
@@ -49,7 +48,6 @@
       </td>
       <td align="center" width="33%">
         <img height="120" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="coding animation" />
-        <br><b>💡 Siempre Aprendiendo</b>
       </td>
     </tr>
   </table>
@@ -140,7 +138,7 @@ Aplicación móvil híbrida con IA capaz de identificar entornos en tiempo real 
 - Clasificación automática de entornos
 - Interfaz híbrida multiplataforma
 
-[🔗 Ver Frontend](#) | [🔗 Ver Backend](#)
+[🔗 Ver Frontend](https://github.com/TeslaBv/srl_ui) | [🔗 Ver Backend]({https://github.com/TeslaBv/backendPR)
 
 ---
 
@@ -377,29 +375,9 @@ const expertise = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🎯 Metas 2025
-
-- [ ] Contribuir a proyectos open-source de Angular y NestJS
-- [ ] Dominar Kubernetes y arquitecturas cloud-native
-- [ ] Publicar aplicaciones de IA en producción
-- [ ] Obtener certificación AWS Solutions Architect
-- [ ] Compartir conocimiento mediante artículos técnicos
-- [ ] Expandir experiencia en DevOps y automatización
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🐍 ¡Mira cómo la Serpiente Devora mis Contribuciones!
-
-<div align="center">
-  
-  <!-- Requiere configuración de GitHub Action - ver instrucciones al final -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TeslaBv/TeslaBv/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TeslaBv/TeslaBv/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/TeslaBv/TeslaBv/output/github-contribution-grid-snake.svg">
-  </picture>
-  
-</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
