@@ -246,9 +246,8 @@ Interfaz web experimental para control mediante gestos faciales y manuales.
 
 ## 📊 Estadísticas de GitHub
 
-<div align="center">
 ![](https://github-readme-stats.vercel.app/api?username=TeslaBv&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-</div>
+
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeslaBv&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=46ca4b&text_color=c9d1d9&langs_count=10&locale=es" />
   <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=TeslaBv&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=46ca4b&line=46ca4b&point=c9d1d9" />
