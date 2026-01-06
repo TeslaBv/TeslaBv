@@ -258,13 +258,6 @@ Interfaz web experimental para control mediante gestos faciales y manuales.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🏆 Trofeos de GitHub
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TeslaBv&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📈 Gráfico de Contribuciones
 
@@ -274,19 +267,17 @@ Interfaz web experimental para control mediante gestos faciales y manuales.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 💼 Repositorios Destacados
-
+💼 Repositorios Destacados
 <div align="center">
-  
-  <!-- Reemplaza con tus repositorios reales -->
-  <a href="https://github.com/TeslaBv/identificacion-entornos-front">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TeslaBv&repo=identificacion-entornos-front&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=46ca4b&icon_color=46ca4b&text_color=c9d1d9&locale=es" />
+  <a href="https://github.com/TeslaBv/srl_ui">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TeslaBv&repo=srl_ui&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=46ca4b&icon_color=46ca4b&text_color=c9d1d9&locale=es" />
   </a>
-  <a href="https://github.com/TeslaBv/sustentarte-marketplace">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TeslaBv&repo=sustentarte-marketplace&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=46ca4b&icon_color=46ca4b&text_color=c9d1d9&locale=es" />
+  <a href="https://github.com/TeslaBv/Sustent-arte">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TeslaBv&repo=Sustent-arte&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=46ca4b&icon_color=46ca4b&text_color=c9d1d9&locale=es" />
   </a>
-  
 </div>
+<br>
+<div align="center">
 
 <br>
 
