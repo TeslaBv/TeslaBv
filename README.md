@@ -270,10 +270,10 @@ Interfaz web experimental para control mediante gestos faciales y manuales.
 💼 Repositorios Destacados
 <div align="center">
   <a href="https://github.com/TeslaBv/srl_ui">
-    <img src="https://img.lenso.ai/blog/find-location-from-a-photo/find-location-from-a-photo.jpg?updatedAt=1725441118941&tr=w-1500,h-auto" />
+    <img src="https://img.lenso.ai/blog/find-location-from-a-photo/find-location-from-a-photo.jpg?updatedAt=1725441118941&tr=w-100,h-auto" />
   </a>
   <a href="https://github.com/TeslaBv/Sustent-arte">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TeslaBv&repo=Sustent-arte&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=46ca4b&icon_color=46ca4b&text_color=c9d1d9&locale=es" />
+    <img src="https://cdn.forbes.com.mx/2023/09/Tienda-Muxeres-marketplace-mujeres.webp&tr=w-100,h-auto" />
   </a>
 </div>
 <br>
@@ -392,50 +392,3 @@ const expertise = {
 <br>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
-
----
-
-<!-- 
-📌 INSTRUCCIONES PARA LA ANIMACIÓN DE LA SERPIENTE:
-
-1. Crea un repositorio con tu nombre de usuario: TeslaBv/TeslaBv
-2. Crea la carpeta: .github/workflows
-3. Crea el archivo: generate-snake.yml
-4. Copia este contenido:
-
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */6 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: Platane/snk@master
-        id: snake-gif
-        with:
-          github_user_name: TeslaBv
-          gif_out_path: dist/github-contribution-grid-snake.gif
-          svg_out_path: dist/github-contribution-grid-snake.svg
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-5. Guarda y espera a que se ejecute el workflow
-6. Los archivos SVG se generarán en la rama 'output'
-
-📝 PERSONALIZACIÓN ADICIONAL:
-
-- Actualiza los enlaces de repositorios en la sección "Repositorios Destacados"
-- Agrega tus proyectos reales con los nombres correctos
-- Puedes cambiar los colores modificando los valores hexadecimales
-- El color principal actual es #46ca4b (verde)
-
--->
