@@ -138,7 +138,7 @@ Aplicación móvil híbrida con IA capaz de identificar entornos en tiempo real 
 - Clasificación automática de entornos
 - Interfaz híbrida multiplataforma
 
-[🔗 Ver Frontend](https://github.com/TeslaBv/srl_ui) | [🔗 Ver Backend]({https://github.com/TeslaBv/backendPR)
+[🔗 Ver Frontend](https://github.com/TeslaBv/srl_ui) | [🔗 Ver Backend](https://github.com/TeslaBv/backendPR)
 
 ---
 
@@ -151,7 +151,7 @@ Plataforma completa de e-commerce para artesanos locales.
 - Carrito de compras funcional
 - Integración con PayPal para pagos seguros
 
-[🔗 Ver Repositorio](#)
+[🔗 Ver Repositorio](https://github.com/TeslaBv/Sustent-arte)
 
 ---
 
@@ -164,7 +164,7 @@ Interfaz web experimental para control mediante gestos faciales y manuales.
 - Control sin contacto
 - Optimizado con TensorFlow Lite
 
-[🔗 Ver Repositorio](#)
+[🔗 Ver Repositorio](https://github.com/TeslaBv/gesture_detection)
 
 </details>
 
@@ -246,10 +246,7 @@ Interfaz web experimental para control mediante gestos faciales y manuales.
 
 ## 📊 Estadísticas de GitHub
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=TeslaBv&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=46ca4b&icon_color=46ca4b&text_color=c9d1d9&count_private=true&include_all_commits=true&locale=es" />
-  <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=TeslaBv&theme=tokyonight&hide_border=true&background=0D1117&ring=46ca4b&fire=46ca4b&currStreakLabel=46ca4b&locale=es" />
-</div>
+![](https://github-readme-stats.vercel.app/api?username=TeslaBv&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeslaBv&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=46ca4b&text_color=c9d1d9&langs_count=10&locale=es" />
@@ -258,12 +255,6 @@ Interfaz web experimental para control mediante gestos faciales y manuales.
 
 <br>
 
-<!-- Contribution Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TeslaBv/TeslaBv/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TeslaBv/TeslaBv/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/TeslaBv/TeslaBv/output/github-contribution-grid-snake.svg">
-</picture>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
