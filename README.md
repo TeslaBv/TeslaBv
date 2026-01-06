@@ -15,7 +15,7 @@
 
   <!-- Social Links -->
   <p>
-    <a href="https://www.linkedin.com/in/hiramcruzfabian" target="_blank">
+    <a href="https://www.linkedin.com/in/hiram-cruz-fabian" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="mailto:cruzfabianhiram@email.com">
@@ -246,10 +246,12 @@ Interfaz web experimental para control mediante gestos faciales y manuales.
 
 ## 📊 Estadísticas de GitHub
 
-![](https://github-readme-stats.vercel.app/api?username=TeslaBv&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeslaBv&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=46ca4b&text_color=c9d1d9&langs_count=10&locale=es" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=TeslaBv&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
+</div>
+
+<div align="center">
   <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=TeslaBv&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=46ca4b&line=46ca4b&point=c9d1d9" />
 </div>
 
@@ -318,7 +320,7 @@ Interfaz web experimental para control mediante gestos faciales y manuales.
   
   <br>
   
-  <a href="https://www.linkedin.com/in/hiramcruzfabian">
+  <a href="https://www.linkedin.com/in/hiram-cruz-fabian">
     <img src="https://img.shields.io/badge/Conecta_en_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:cruzfabianhiram@email.com">
