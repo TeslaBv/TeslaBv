@@ -223,11 +223,11 @@ Interfaz web experimental para control mediante gestos faciales y manuales.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📜 Acreditaciónes Cisco
+## 📜 Acreditaciones
 
 <div align="center">
 
-| 🏆 Acreditaciónes | 🗓️ Fecha | 🎓 Institución |
+| 🏆 Acreditaciones | 🗓️ Fecha | 🎓 Institución |
 |------------------|-----------|----------------|
 | **CCNA v7: Enterprise Networking, Security, and Automation** | Noviembre 2024 | Cisco Networking Academy |
 | **CCNA v7: Switching, Routing, and Wireless Essentials** | Enero 2024 | Cisco Networking Academy |
