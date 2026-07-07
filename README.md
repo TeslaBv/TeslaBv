@@ -100,7 +100,26 @@ const hiramCruz = {
 <summary><b>🎯 Lo Que Hago</b></summary>
 <br>
 
-### 💼 Experiencia Actual - Cosmos SoftWorks (2025 - Presente)
+### 💼 CoFounder & FrontEnd Lead - LoyalSync (Marzo 2026 - Actualidad)
+
+**Lead FrontEnd para desarrollo de un SAAS**
+
+- 🏗️ **FrontEnd en NextJS**: Desarrollo de interfaces responsivas, modernas y animaciones lottie. Proteccion de rutas y mejora del SEO.
+- 📊 **KPI'S y Reportes**: Analisis y generacion de reportes a usuarios, manejo de KPI's para entendimiento del usuario.
+- 💻 **Librerias**: Integracion de diversas librerias para la plataforma ReactJoy, LucideReact, Recharts, LottieWeb.
+- 📔 **Analisis y Rendimiento**: Pruebas de rendimiento y analisis de paginas, para implementaciones nuevas y actualizaciones.
+
+
+### 💼 Analista de Migracion del Sitema de Ingresos de Oaxaca (Marzo 2026 - Actualidad)
+
+**Analistas de Migracion**
+
+- ☁️ **MODELO**: Analisis basado en el modelo BPMN (Buisness Process Model Notatin)
+- 📊 **Actividades**: Analisis directo con negocio, para la extraccion de Requerimientos y Reglas de Negocio
+- 💻 **Documentacion**: Generacion de Documento de Requerimientos, Reglas de Negocios, Matriz de Roles, Documentos AS-IS y TO-BE.
+- 📔 **Diagramas**: Generacion de Diagramas de Casos de unos y Actividadaes
+
+### 💼 FullStack Developer - Cosmos SoftWorks (Septiembre 2025 - Marzo 2026)
 
 **Desarrollador FullStack en Sistema ERP**
 
