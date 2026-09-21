@@ -4,7 +4,7 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hiram%20Adalid%20Cruz%20Fabián&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Ingeniero%20de%20Software%20FullStack%20%7C%20Angular%2019%20Developer&descAlignY=51&descAlign=50" />
   
   <!-- Typing Animation -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=46ca4b&center=true&vCenter=true&width=600&lines=Hola!+Soy+Hiram+Cruz+%F0%9F%91%8B;Ingeniero+de+Software+FullStack+%F0%9F%92%BB;Angular+19+Developer+%F0%9F%9A%80;NestJS+%26+Microservicios+%E2%9A%99%EF%B8%8F;Cisco+Certified+(CCNA+%2B+CyberOps)+%F0%9F%94%92;Creando+Soluciones+Escalables+%F0%9F%8C%90" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=46ca4b&center=true&vCenter=true&width=600&lines=Hola!+Soy+Hiram+Cruz+%F0%9F%91%8B;Developer+Junior+%F0%9F%92%BB;Angular+19+Developer+%F0%9F%9A%80;NestJS+%26+Microservicios+%E2%9A%99%EF%B8%8F;Cisco+Certified+(CCNA+%2B+CyberOps)+%F0%9F%94%92;Creando+Soluciones+Escalables+%F0%9F%8C%90" alt="Typing SVG" />
 
   <!-- Badges -->
   <p>
@@ -65,7 +65,7 @@ const hiramCruz = {
     educacion: "Ingeniería en Software y Sistemas Computacionales",
     universidad: "Universidad La Salle Oaxaca",
     
-    certificaciones: [
+    Acreditaciones: [
         "CCNA v7: Enterprise Networking, Security, and Automation",
         "CCNA v7: Switching, Routing, and Wireless Essentials",
         "CyberOps Associate",
@@ -75,9 +75,7 @@ const hiramCruz = {
     
     enfoquesActuales: [
         "Angular 19 con Standalone Components",
-        "Microservicios con NestJS",
         "Docker & Containerización",
-        "Arquitectura de Aplicaciones Escalables",
         "Integración de IA con TensorFlow"
     ],
     
