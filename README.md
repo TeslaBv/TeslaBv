@@ -60,8 +60,8 @@
 const hiramCruz = {
     ubicacion: "Oaxaca, México 🇲🇽",
     rol: "Ingeniero de Software FullStack",
-    empresa: "Cosmos SoftWorks",
-    proyectoActual: "Sistema ERP con Arquitectura de Microservicios",
+    empresa: "LoyalSync",
+    proyectoActual: "LoyalSync · plataforma de fidelización multitenant",
     educacion: "Ingeniería en Software y Sistemas Computacionales",
     universidad: "Universidad La Salle Oaxaca",
     
@@ -98,15 +98,14 @@ const hiramCruz = {
 <summary><b>🎯 Lo Que Hago</b></summary>
 <br>
 
-### 💼 CoFounder & FrontEnd Lead - LoyalSync (Marzo 2026 - Actualidad)
+### 💼 Cofundador y Frontend Lead — LoyalSync (marzo de 2026 - actualidad)
 
-**Lead FrontEnd para desarrollo de un SAAS**
+Plataforma SaaS de fidelización que permite a los comercios gestionar clientes, recompensas y programas de puntos o sellos.
 
-- 🏗️ **FrontEnd en NextJS**: Desarrollo de interfaces responsivas, modernas y animaciones lottie. Proteccion de rutas y mejora del SEO.
-- 📊 **KPI'S y Reportes**: Analisis y generacion de reportes a usuarios, manejo de KPI's para entendimiento del usuario.
-- 💻 **Librerias**: Integracion de diversas librerias para la plataforma ReactJoy, LucideReact, Recharts, LottieWeb.
-- 📔 **Analisis y Rendimiento**: Pruebas de rendimiento y analisis de paginas, para implementaciones nuevas y actualizaciones.
-
+- Lidero el desarrollo de interfaces en Angular y TypeScript, con Tailwind CSS y componentes reactivos.
+- Diseño paneles de indicadores y reportes para que cada comercio consulte el desempeño de su programa.
+- Integro el frontend con la API mediante `HttpClient`, RxJS e interceptores para autenticación y manejo de errores.
+- Colaboro en la definición de flujos de clientes, personal y administradores, con atención a usabilidad, rendimiento y seguridad.
 
 ### 💼 Analista de Migracion del Sitema de Ingresos de Oaxaca (Marzo 2026 - Actualidad)
 
@@ -141,6 +140,17 @@ const hiramCruz = {
 <summary><b>🚀 Proyectos Destacados</b></summary>
 <br>
 
+### 🎟️ LoyalSync — plataforma SaaS de fidelización
+**Stack:** Angular, TypeScript, Tailwind CSS, RxJS, NestJS, PostgreSQL, TypeORM, Docker
+
+Sistema multitenant para que cada comercio administre su programa de puntos o sellos, sus clientes y un catálogo de recompensas. El frontend ofrece paneles para administración y personal de caja, indicadores de desempeño y flujos de consulta y canje.
+
+El backend en NestJS organiza autenticación, comercios, clientes, recompensas y transacciones en módulos por dominio. Los datos y reglas se aíslan por comercio; las operaciones de acumulación y canje aplican controles de concurrencia y consistencia para impedir duplicados en lecturas de QR. La API REST se documenta con OpenAPI/Swagger y protege los accesos con JWT, contraseñas cifradas con bcrypt y permisos por rol (administrador, personal y cliente).
+
+**Frontend:** Angular `HttpClient` e interceptores para JWT y errores; RxJS para estado y flujos asíncronos.  
+**Backend e infraestructura:** Node.js, NestJS, TypeORM, PostgreSQL, Passport/JWT, Docker, GitHub Actions y Vercel.
+
+---
 ### 📱 App de Identificación de Entornos (Visión Artificial)
 **Stack**: Ionic 8, Angular 19, Python (Flask), TensorFlow, Capacitor
 
@@ -191,7 +201,7 @@ Interfaz web experimental para control mediante gestos faciales y manuales.
   <img src="https://skillicons.dev/icons?i=angular,typescript,javascript,html,css,sass,tailwind,bootstrap,materialui,ionic,figma" />
 </a>
 
-**Frameworks y Librerías**: Angular 19, Ionic 8 (Capacitor), TailwindCSS, PrimeNG, Angular Material, Bootstrap 5
+**Frameworks y librerías**: Angular, Ionic 8 (Capacitor), Tailwind CSS, PrimeNG, Angular Material, Bootstrap 5, RxJS, Angular HttpClient
 
 ---
 
@@ -200,7 +210,7 @@ Interfaz web experimental para control mediante gestos faciales y manuales.
   <img src="https://skillicons.dev/icons?i=nestjs,nodejs,python,flask,docker,nginx,rabbitmq,redis" />
 </a>
 
-**Tecnologías**: NestJS, Node.js, Python (Flask), Microservicios, Docker, Nginx, MinIO (Object Storage)
+**Tecnologías**: NestJS, Node.js, Python (Flask), microservicios, Docker, Nginx, MinIO, JWT (Passport), guards por rol y bcrypt
 
 ---
 
@@ -227,7 +237,7 @@ Interfaz web experimental para control mediante gestos faciales y manuales.
   <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman" />
 </a>
 
-**Herramientas**: Git, GitHub Actions (CI/CD), Postman, Linux, VS Code, Swagger/OpenAPI
+**Herramientas**: Git, GitHub Actions (CI/CD), Postman, Linux, VS Code, Swagger/OpenAPI, Vercel
 
 ---
 
@@ -291,6 +301,7 @@ Interfaz web experimental para control mediante gestos faciales y manuales.
 
 | Proyecto | Descripción | Stack Principal |
 |----------|-------------|-----------------|
+| 🎟️ **LoyalSync** | SaaS multitenant para programas de fidelización, puntos, sellos y recompensas | Angular, NestJS, PostgreSQL, Docker |
 | 🏢 **Sistema ERP** | Solución empresarial integral con microservicios | Angular 19, NestJS, PostgreSQL, Docker |
 | 📱 **App Visión Artificial** | Identificación de entornos con Deep Learning | Ionic 8, TensorFlow, Flask, Angular |
 | 🛒 **Marketplace SustentArte** | E-commerce para artesanos con PayPal | Angular, NestJS, MySQL, JWT |
