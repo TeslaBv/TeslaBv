@@ -1,179 +1,173 @@
-# Hiram Adalid Cruz Fabián
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hiram%20Adalid%20Cruz%20Fabi%C3%A1n&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=FullStack%20Developer%20%7C%20SIOX%20%26%20LoyalSync&descAlignY=51&descAlign=50" alt="Hiram Adalid Cruz Fabián" />
+</p>
 
-**FullStack Developer · Java, Spring Boot y Angular | Cofundador de LoyalSync**  
-Oaxaca, México 🇲🇽
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=46ca4b&center=true&vCenter=true&width=700&lines=Hola!+Soy+Hiram+Cruz+%F0%9F%91%8B;FullStack+Developer+%F0%9F%92%BB;Java+21+%2B+Spring+Boot+%E2%9A%99%EF%B8%8F;Angular+21+%2B+TypeScript+%F0%9F%9A%80;Cofundador+de+LoyalSync+%F0%9F%8C%90" alt="Presentación animada" />
+</p>
 
-[GitHub](https://github.com/TeslaBv) · [LinkedIn](https://www.linkedin.com/in/hiram-cruz-fabian) · [Correo](mailto:cruzfabianhiram@email.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/hiram-cruz-fabian"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:cruzfabianhiram@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo" /></a>
+  <a href="https://github.com/TeslaBv"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
 
----
+<p align="center">
+  <img src="https://img.shields.io/github/followers/TeslaBv?label=Seguidores&style=flat-square&color=46ca4b" alt="Seguidores de GitHub" />
+  <img src="https://img.shields.io/github/stars/TeslaBv?label=Estrellas&style=flat-square&color=46ca4b" alt="Estrellas de GitHub" />
+</p>
+
+<p align="center">
+  <img height="105" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Animación de programación" />
+  <img height="105" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Animación de desarrollo" />
+</p>
+
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Separador animado" />
+
 ## 👨‍💻 Sobre mí
 
-Soy ingeniero de software en Oaxaca, México. Desarrollo soluciones de extremo a extremo: desde el análisis de procesos y la experiencia de usuario hasta las APIs y la persistencia de datos.
+Soy ingeniero de software en Oaxaca, México. Me gusta llevar una idea desde el análisis de procesos hasta una aplicación que las personas puedan usar: interfaces claras, APIs bien definidas y datos consistentes.
 
-Actualmente trabajo como **FullStack Developer en SIOX**, donde participo en la modernización del Sistema de Ingresos de Oaxaca con **Java 21, Spring Boot, Angular 21 y Oracle**. También soy **cofundador y Frontend Lead de LoyalSync**, una plataforma SaaS de fidelización para comercios.
+Hoy trabajo como **FullStack Developer en SIOX** y soy **cofundador y Frontend Lead de LoyalSync**. Mi trabajo combina **Java 21, Spring Boot, Angular y TypeScript** con diseño de soluciones, seguridad y colaboración con negocio.
 
-Me interesan la arquitectura de software, la seguridad, DevOps y la inteligencia artificial. Soy egresado de **Ingeniería en Software y Sistemas Computacionales** de la Universidad La Salle Oaxaca; hablo español e inglés (B2).
+## 💼 Lo que construyo hoy
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏛️ SIOX · Sistema de Ingresos de Oaxaca</h3>
+      <p><strong>FullStack Developer · marzo de 2026 – actualidad</strong></p>
+      <p>Participo en la modernización del sistema de ingresos de Oaxaca. Desarrollo interfaces en Angular 21 y servicios en Java 21 y Spring Boot, con separación entre API de dominio y capa de datos.</p>
+      <p>Trabajo con OpenFeign, Oracle, Spring Data JPA y Flyway. También documento procesos BPMN, requisitos, reglas de negocio y flujos AS-IS/TO-BE para orientar la migración.</p>
+      <p><code>Java 21</code> <code>Spring Boot</code> <code>Angular 21</code> <code>Oracle</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎟️ LoyalSync</h3>
+      <p><strong>Cofundador y Frontend Lead · marzo de 2026 – actualidad</strong></p>
+      <p>Plataforma SaaS multitenant para programas de fidelización de comercios: clientes, puntos, sellos, recompensas e indicadores de desempeño.</p>
+      <p>Lidero el frontend en Angular y TypeScript, con Tailwind CSS, RxJS, paneles de reportes e integración con la API mediante HttpClient e interceptores.</p>
+      <p><code>Angular</code> <code>TypeScript</code> <code>RxJS</code> <code>Tailwind CSS</code></p>
+    </td>
+  </tr>
+</table>
 
 <details>
-<summary><b>🎯 Lo Que Hago</b></summary>
+<summary><b>📚 Experiencia anterior</b></summary>
 
-### 💼 FullStack Developer — SIOX, Sistema de Ingresos de Oaxaca (marzo de 2026 - actualidad)
+### FullStack Developer · Cosmos SoftWorks
 
-Participo en la modernización del sistema de ingresos de Oaxaca, desde el análisis de procesos y reglas de negocio hasta la implementación de funcionalidades de frontend y backend.
+*Septiembre de 2025 – marzo de 2026*
 
-- Desarrollo servicios en **Java 21 y Spring Boot**, con separación entre API de dominio y capa de datos; la comunicación entre ambas usa OpenFeign.
-- Trabajo con **Oracle, Spring Data JPA y Flyway** para persistencia y migraciones de datos.
-- Construyo interfaces en **Angular 21 y TypeScript**, con PrimeNG y Tailwind CSS.
-- Documento procesos con BPMN, requisitos, reglas de negocio, matriz de roles y flujos AS-IS/TO-BE para orientar la migración.
+- Desarrollé microservicios con NestJS para envío de correos y generación de documentos.
+- Construí interfaces responsivas con Angular 19, Tailwind CSS y PrimeNG.
+- Integré MinIO, optimicé consultas PostgreSQL e implementé notificaciones con WebSockets.
+- Desarrollé módulos como diagramas de Gantt y calendarios.
 
-### 💼 Cofundador y Frontend Lead — LoyalSync (marzo de 2026 - actualidad)
+### Ingeniero de Software Frontend · SEMOVI Oaxaca
 
-Plataforma SaaS de fidelización que permite a los comercios gestionar clientes, recompensas y programas de puntos o sellos.
+*Prácticas, 2024 – 2025*
 
-- Lidero el desarrollo de interfaces en Angular y TypeScript, con Tailwind CSS y componentes reactivos.
-- Diseño paneles de indicadores y reportes para que cada comercio consulte el desempeño de su programa.
-- Integro el frontend con la API mediante `HttpClient`, RxJS e interceptores para autenticación y manejo de errores.
-- Colaboro en la definición de flujos de clientes, personal y administradores, con atención a usabilidad, rendimiento y seguridad.
-
-### 💼 FullStack Developer - Cosmos SoftWorks (Septiembre 2025 - Marzo 2026)
-
-**Desarrollador FullStack en Sistema ERP**
-
-- 🏗️ **Backend con NestJS**: Construcción de microservicios escalables para envío de correos y generación automatizada de documentos
-- 💻 **Frontend con Angular 19**: Desarrollo de interfaces modernas y responsivas con TailwindCSS y PrimeNG
-- 🗄️ **Gestión de Datos**: Integración con MinIO y optimización de consultas PostgreSQL para alto rendimiento
-- ⚡ **Tiempo Real**: Implementación de WebSockets (Socket.io) para notificaciones y actualizaciones dinámicas
-- 📊 **Herramientas Empresariales**: Desarrollo de módulos interactivos como diagramas de Gantt y calendarios
-
-### 🏛️ SEMOVI - Secretaría de Movilidad de Oaxaca (2024 - 2025)
-
-**Ingeniero de Software Frontend (Prácticas)**
-
-- 🔄 **Migración Legacy**: Modernización de aplicaciones heredadas hacia Angular 17
-- 🎨 **Diseño de Interfaces**: Creación de componentes visuales estandarizados y accesibles
-- 🐍 **Procesamiento de Datos**: Scripts en Python para limpieza y migración de grandes volúmenes de datos históricos
+- Modernicé aplicaciones heredadas hacia Angular 17 y creé componentes visuales estandarizados.
+- Escribí scripts en Python para limpieza y migración de datos históricos.
 
 </details>
 
+## 🚀 Proyectos destacados
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎟️ LoyalSync</h3>
+      <p>Plataforma de fidelización con administración por comercio, catálogo de recompensas y transacciones de puntos o sellos. La API en NestJS separa los dominios de autenticación, comercios, clientes y canjes. Incluye aislamiento por comercio, control de concurrencia en lecturas QR, JWT, permisos por rol y documentación OpenAPI.</p>
+      <p><code>Angular</code> <code>NestJS</code> <code>PostgreSQL</code> <code>TypeORM</code> <code>Docker</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏢 Sistema ERP</h3>
+      <p>Solución empresarial con microservicios para documentos, notificaciones y herramientas de planificación. Desarrollé interfaces y servicios con integración de almacenamiento de objetos y datos relacionales.</p>
+      <p><code>Angular 19</code> <code>NestJS</code> <code>PostgreSQL</code> <code>MinIO</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📱 <a href="https://github.com/TeslaBv/srl_ui">App de identificación de entornos</a></h3>
+      <p>Aplicación móvil híbrida que captura imágenes y clasifica entornos en tiempo real mediante una red neuronal.</p>
+      <p><code>Ionic 8</code> <code>Angular 19</code> <code>Flask</code> <code>TensorFlow</code></p>
+      <p><a href="https://github.com/TeslaBv/srl_ui">Frontend</a> · <a href="https://github.com/TeslaBv/backendPR">Backend</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛒 <a href="https://github.com/TeslaBv/Sustent-arte">Marketplace SustentArte</a></h3>
+      <p>Comercio electrónico para artesanos locales con catálogo, carrito, autenticación e integración de pagos.</p>
+      <p><code>Angular</code> <code>NestJS</code> <code>MySQL</code> <code>PayPal API</code></p>
+    </td>
+  </tr>
+</table>
+
 <details>
-<summary><b>🚀 Proyectos Destacados</b></summary>
+<summary><b>🤖 Otro proyecto: detección de gestos</b></summary>
 
-### 🎟️ LoyalSync — plataforma SaaS de fidelización
-**Stack:** Angular, TypeScript, Tailwind CSS, RxJS, NestJS, PostgreSQL, TypeORM, Docker
+Interfaz experimental para control sin contacto mediante gestos faciales y manuales, con inferencia en el navegador.
 
-Sistema multitenant para que cada comercio administre su programa de puntos o sellos, sus clientes y un catálogo de recompensas. El frontend ofrece paneles para administración y personal de caja, indicadores de desempeño y flujos de consulta y canje.
-
-El backend en NestJS organiza autenticación, comercios, clientes, recompensas y transacciones en módulos por dominio. Los datos y reglas se aíslan por comercio; las operaciones de acumulación y canje aplican controles de concurrencia y consistencia para impedir duplicados en lecturas de QR. La API REST se documenta con OpenAPI/Swagger y protege los accesos con JWT, hashing de contraseñas con bcrypt y permisos por rol (administrador, personal y cliente).
-
-**Frontend:** Angular `HttpClient` e interceptores para JWT y errores; RxJS para estado y flujos asíncronos.  
-**Backend e infraestructura:** Node.js, NestJS, TypeORM, PostgreSQL, Passport/JWT, Docker, GitHub Actions y Vercel.
-
----
-### 📱 App de Identificación de Entornos (Visión Artificial)
-**Stack**: Ionic 8, Angular 19, Python (Flask), TensorFlow, Capacitor
-
-Aplicación móvil híbrida con IA capaz de identificar entornos en tiempo real mediante Deep Learning.
-- Captura de imágenes en tiempo real
-- Procesamiento con red neuronal TensorFlow
-- Clasificación automática de entornos
-- Interfaz híbrida multiplataforma
-
-[🔗 Ver Frontend](https://github.com/TeslaBv/srl_ui) | [🔗 Ver Backend](https://github.com/TeslaBv/backendPR)
-
----
-
-### 🛒 Marketplace SustentArte
-**Stack**: Angular, NestJS, MySQL, PayPal API, JWT
-
-Plataforma completa de e-commerce para artesanos locales.
-- Sistema de autenticación y autorización
-- Catálogo dinámico de productos
-- Carrito de compras funcional
-- Integración con PayPal para pagos seguros
-
-[🔗 Ver Repositorio](https://github.com/TeslaBv/Sustent-arte)
-
----
-
-### 🤖 Sistema de Detección de Gestos
-**Stack**: Angular, TensorFlow Lite
-
-Interfaz web experimental para control mediante gestos faciales y manuales.
-- Machine Learning ejecutado en navegador
-- Detección de gestos en tiempo real
-- Control sin contacto
-- Optimizado con TensorFlow Lite
-
-[🔗 Ver Repositorio](https://github.com/TeslaBv/gesture_detection)
+**Stack:** Angular y TensorFlow Lite. [Ver repositorio](https://github.com/TeslaBv/gesture_detection).
 
 </details>
 
-## 🛠️ Stack Tecnológico
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Separador animado" />
 
-### 🎨 Frontend & Mobile
+## 🛠️ Tecnologías
 
-**Frameworks y librerías**: Angular 21, Ionic 8 (Capacitor), Tailwind CSS, PrimeNG, Angular Material, Bootstrap 5, RxJS, Angular HttpClient
+### Frontend
 
----
+<p align="center"><img src="https://skillicons.dev/icons?i=angular,typescript,javascript,html,css,tailwind,ionic,figma" alt="Angular, TypeScript, JavaScript, HTML, CSS, Tailwind CSS, Ionic y Figma" /></p>
 
-### ⚙️ Backend & Microservicios
+Angular 21, TypeScript, RxJS, Angular HttpClient, PrimeNG, Tailwind CSS e Ionic.
 
-**Tecnologías**: Java 21, Spring Boot, Spring Data JPA, OpenFeign, NestJS, Node.js, Python (Flask), Docker, Nginx, MinIO, JWT (Passport), guards por rol y bcrypt
+### Backend y datos
 
----
+<p align="center"><img src="https://skillicons.dev/icons?i=java,spring,nestjs,nodejs,python,postgresql,mysql,docker" alt="Java, Spring, NestJS, Node.js, Python, PostgreSQL, MySQL y Docker" /></p>
 
-### 🗄️ Bases de Datos
+Java 21, Spring Boot, OpenFeign, Spring Data JPA, Flyway, Oracle, NestJS, TypeORM, PostgreSQL y MySQL.
 
-**Gestión**: Oracle, PostgreSQL, MySQL, Spring Data JPA, Flyway, TypeORM, diseño de esquemas y optimización de consultas
+### Herramientas
 
----
+<p align="center"><img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman,tensorflow" alt="Git, GitHub, Linux, VS Code, Postman y TensorFlow" /></p>
 
-### 🤖 Inteligencia Artificial & ML
+GitHub Actions, Swagger/OpenAPI, MinIO, Vercel, TensorFlow, ExcelJS, jsPDF y docx-templates.
 
-**Deep Learning**: TensorFlow, TensorFlow Lite, Keras, Integración de modelos de IA, Visión por Computadora
+<details>
+<summary><b>📊 Estadísticas de GitHub</b></summary>
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TeslaBv&theme=dark&hide_border=true&show_icons=true" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeslaBv&theme=dark&hide_border=true&layout=compact" alt="Lenguajes de los repositorios" />
+</p>
 
-### 🔧 DevOps & Herramientas
-
-**Herramientas**: Git, GitHub Actions (CI/CD), Postman, Linux, VS Code, Swagger/OpenAPI, Vercel
-
----
-
-### 📄 Reportes & Documentos
-**Librerías**: ExcelJS, JSPDF, Docx-templates, Generación dinámica de documentos
+</details>
 
 ## 📜 Acreditaciones
 
-| 🏆 Acreditaciones | 🗓️ Fecha | 🎓 Institución |
-|------------------|-----------|----------------|
-| **CCNA v7: Enterprise Networking, Security, and Automation** | Noviembre 2024 | Cisco Networking Academy |
-| **CCNA v7: Switching, Routing, and Wireless Essentials** | Enero 2024 | Cisco Networking Academy |
-| **CyberOps Associate** | Noviembre 2023 | Cisco Networking Academy |
-| **CCNA v7: Introduction to Networks** | Junio 2023 | Cisco Networking Academy |
-| **NDG Linux Essentials** | Junio 2023 | Cisco Networking Academy |
-
-## 🎯 Portafolio de proyectos
-
-| Proyecto | Descripción | Stack Principal |
-|----------|-------------|-----------------|
-| 🏛️ **SIOX** | Modernización del Sistema de Ingresos de Oaxaca, del análisis de procesos a la implementación FullStack | Java 21, Spring Boot, Angular 21, Oracle |
-| 🎟️ **LoyalSync** | SaaS multitenant para programas de fidelización, puntos, sellos y recompensas | Angular, NestJS, PostgreSQL, Docker |
-| 🏢 **Sistema ERP** | Solución empresarial integral con microservicios | Angular 19, NestJS, PostgreSQL, Docker |
-| 📱 [**App de visión artificial**](https://github.com/TeslaBv/srl_ui) | Identificación de entornos con Deep Learning | Ionic 8, TensorFlow, Flask, Angular |
-| 🛒 [**Marketplace SustentArte**](https://github.com/TeslaBv/Sustent-arte) | E-commerce para artesanos con PayPal | Angular, NestJS, MySQL, JWT |
-| 🤖 [**Detección de gestos**](https://github.com/TeslaBv/gesture_detection) | Control por gestos con ML en navegador | Angular, TensorFlow Lite |
-| 📊 **Sistema Control Archivos** | Modernización digital para SEMOVI | Angular 17, Python, MySQL |
+| Acreditación | Fecha | Institución |
+|--------------|-------|-------------|
+| CCNA v7: Enterprise Networking, Security, and Automation | Noviembre de 2024 | Cisco Networking Academy |
+| CCNA v7: Switching, Routing, and Wireless Essentials | Enero de 2024 | Cisco Networking Academy |
+| CyberOps Associate | Noviembre de 2023 | Cisco Networking Academy |
+| CCNA v7: Introduction to Networks | Junio de 2023 | Cisco Networking Academy |
+| NDG Linux Essentials | Junio de 2023 | Cisco Networking Academy |
 
 ## 🎓 Educación
 
-| 📚 Título | 🏫 Institución | 📅 Periodo |
-|-----------|----------------|-----------|
-| **Ingeniería en Software y Sistemas Computacionales** | Universidad La Salle Oaxaca | 2021 - 2025 |
-| **Técnico en Programación (Físico/Matemático)** | CBTIS 150 Carlos M. de Bustamante | 2018 - 2021 |
+| Estudios | Institución | Periodo |
+|----------|-------------|---------|
+| Ingeniería en Software y Sistemas Computacionales | Universidad La Salle Oaxaca | 2021 – 2025 |
+| Técnico en Programación (Físico/Matemático) | CBTIS 150 Carlos M. de Bustamante | 2018 – 2021 |
 
 ## 📫 Contacto
 
-Me interesa colaborar en proyectos de desarrollo de software y conversar sobre arquitectura, seguridad e inteligencia artificial.
+<p align="center">Me interesa colaborar en proyectos de desarrollo de software y conversar sobre arquitectura, seguridad e inteligencia artificial.</p>
 
-[LinkedIn](https://www.linkedin.com/in/hiram-cruz-fabian) · [GitHub](https://github.com/TeslaBv) · [Correo](mailto:cruzfabianhiram@email.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/hiram-cruz-fabian"><img src="https://img.shields.io/badge/Conecta_en_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:cruzfabianhiram@email.com"><img src="https://img.shields.io/badge/Envíame_un_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo" /></a>
+  <a href="https://github.com/TeslaBv"><img src="https://img.shields.io/badge/Sígueme_en_GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt="Pie de página animado" />
