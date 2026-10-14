@@ -1,59 +1,11 @@
-<div align="center">
-  
-  <!-- Animated Header -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hiram%20Adalid%20Cruz%20Fabián&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Developer%20Junior%20%7C%20Angular%2019%20Developer&descAlignY=51&descAlign=50" />
-  
-  <!-- Typing Animation -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=46ca4b&center=true&vCenter=true&width=600&lines=Hola!+Soy+Hiram+Cruz+%F0%9F%91%8B;Developer+Junior+%F0%9F%92%BB;Angular+19+Developer+%F0%9F%9A%80;NestJS+%26+Microservicios+%E2%9A%99%EF%B8%8F;Cisco+Certified+(CCNA+%2B+CyberOps)+%F0%9F%94%92;Creando+Soluciones+Escalables+%F0%9F%8C%90" alt="Typing SVG" />
+# Hiram Adalid Cruz Fabián
 
-  <!-- Badges -->
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=TeslaBv&label=Visitas%20al%20Perfil&color=46ca4b&style=for-the-badge" alt="Profile Views" />
-    <img src="https://img.shields.io/github/followers/TeslaBv?label=Seguidores&style=for-the-badge&color=46ca4b&labelColor=1c1c1c" alt="GitHub Followers" />
-    <img src="https://img.shields.io/github/stars/TeslaBv?label=Estrellas&style=for-the-badge&color=46ca4b&labelColor=1c1c1c" alt="GitHub Stars" />
-  </p>
+**FullStack Developer · Java, Spring Boot y Angular | Cofundador de LoyalSync**  
+Oaxaca, México 🇲🇽
 
-  <!-- Social Links -->
-  <p>
-    <a href="https://www.linkedin.com/in/hiram-cruz-fabian" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="mailto:cruzfabianhiram@email.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://github.com/TeslaBv" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
-  </p>
+[GitHub](https://github.com/TeslaBv) · [LinkedIn](https://www.linkedin.com/in/hiram-cruz-fabian) · [Correo](mailto:cruzfabianhiram@email.com)
 
-</div>
-
-<br>
-
-<!-- Interactive Section -->
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <img height="120" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="coding cat" />
-      </td>
-      <td align="center" width="34%">
-        <a href="https://spotify-recently-played-readme.vercel.app/api?user=shurz7w7">
-          <img src="https://spotify-recently-played-readme.vercel.app/api?user=shurz7w7&count=1&width=300" alt="Spotify Recently Played" />
-        </a>
-        <br><b>🎵 Programando con...</b>
-      </td>
-      <td align="center" width="33%">
-        <img height="120" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="coding animation" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
+---
 ## 👨‍💻 Sobre mí
 
 Soy ingeniero de software en Oaxaca, México. Desarrollo soluciones de extremo a extremo: desde el análisis de procesos y la experiencia de usuario hasta las APIs y la persistencia de datos.
@@ -64,7 +16,6 @@ Me interesan la arquitectura de software, la seguridad, DevOps y la inteligencia
 
 <details>
 <summary><b>🎯 Lo Que Hago</b></summary>
-<br>
 
 ### 💼 FullStack Developer — SIOX, Sistema de Ingresos de Oaxaca (marzo de 2026 - actualidad)
 
@@ -83,6 +34,7 @@ Plataforma SaaS de fidelización que permite a los comercios gestionar clientes,
 - Diseño paneles de indicadores y reportes para que cada comercio consulte el desempeño de su programa.
 - Integro el frontend con la API mediante `HttpClient`, RxJS e interceptores para autenticación y manejo de errores.
 - Colaboro en la definición de flujos de clientes, personal y administradores, con atención a usabilidad, rendimiento y seguridad.
+
 ### 💼 FullStack Developer - Cosmos SoftWorks (Septiembre 2025 - Marzo 2026)
 
 **Desarrollador FullStack en Sistema ERP**
@@ -105,14 +57,13 @@ Plataforma SaaS de fidelización que permite a los comercios gestionar clientes,
 
 <details>
 <summary><b>🚀 Proyectos Destacados</b></summary>
-<br>
 
 ### 🎟️ LoyalSync — plataforma SaaS de fidelización
 **Stack:** Angular, TypeScript, Tailwind CSS, RxJS, NestJS, PostgreSQL, TypeORM, Docker
 
 Sistema multitenant para que cada comercio administre su programa de puntos o sellos, sus clientes y un catálogo de recompensas. El frontend ofrece paneles para administración y personal de caja, indicadores de desempeño y flujos de consulta y canje.
 
-El backend en NestJS organiza autenticación, comercios, clientes, recompensas y transacciones en módulos por dominio. Los datos y reglas se aíslan por comercio; las operaciones de acumulación y canje aplican controles de concurrencia y consistencia para impedir duplicados en lecturas de QR. La API REST se documenta con OpenAPI/Swagger y protege los accesos con JWT, contraseñas cifradas con bcrypt y permisos por rol (administrador, personal y cliente).
+El backend en NestJS organiza autenticación, comercios, clientes, recompensas y transacciones en módulos por dominio. Los datos y reglas se aíslan por comercio; las operaciones de acumulación y canje aplican controles de concurrencia y consistencia para impedir duplicados en lecturas de QR. La API REST se documenta con OpenAPI/Swagger y protege los accesos con JWT, hashing de contraseñas con bcrypt y permisos por rol (administrador, personal y cliente).
 
 **Frontend:** Angular `HttpClient` e interceptores para JWT y errores; RxJS para estado y flujos asíncronos.  
 **Backend e infraestructura:** Node.js, NestJS, TypeORM, PostgreSQL, Passport/JWT, Docker, GitHub Actions y Vercel.
@@ -157,52 +108,33 @@ Interfaz web experimental para control mediante gestos faciales y manuales.
 
 </details>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ## 🛠️ Stack Tecnológico
 
-<div align="center">
-
 ### 🎨 Frontend & Mobile
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=angular,typescript,javascript,html,css,sass,tailwind,bootstrap,materialui,ionic,figma" />
-</a>
 
 **Frameworks y librerías**: Angular 21, Ionic 8 (Capacitor), Tailwind CSS, PrimeNG, Angular Material, Bootstrap 5, RxJS, Angular HttpClient
 
 ---
 
 ### ⚙️ Backend & Microservicios
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=java,spring,nestjs,nodejs,python,flask,docker,nginx" />
-</a>
 
 **Tecnologías**: Java 21, Spring Boot, Spring Data JPA, OpenFeign, NestJS, Node.js, Python (Flask), Docker, Nginx, MinIO, JWT (Passport), guards por rol y bcrypt
 
 ---
 
 ### 🗄️ Bases de Datos
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=oracle,postgresql,mysql" />
-</a>
 
 **Gestión**: Oracle, PostgreSQL, MySQL, Spring Data JPA, Flyway, TypeORM, diseño de esquemas y optimización de consultas
 
 ---
 
 ### 🤖 Inteligencia Artificial & ML
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-</a>
 
 **Deep Learning**: TensorFlow, TensorFlow Lite, Keras, Integración de modelos de IA, Visión por Computadora
 
 ---
 
 ### 🔧 DevOps & Herramientas
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman" />
-</a>
 
 **Herramientas**: Git, GitHub Actions (CI/CD), Postman, Linux, VS Code, Swagger/OpenAPI, Vercel
 
@@ -211,15 +143,7 @@ Interfaz web experimental para control mediante gestos faciales y manuales.
 ### 📄 Reportes & Documentos
 **Librerías**: ExcelJS, JSPDF, Docx-templates, Generación dinámica de documentos
 
-</div>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ## 📜 Acreditaciones
-
-<div align="center">
 
 | 🏆 Acreditaciones | 🗓️ Fecha | 🎓 Institución |
 |------------------|-----------|----------------|
@@ -229,95 +153,27 @@ Interfaz web experimental para control mediante gestos faciales y manuales.
 | **CCNA v7: Introduction to Networks** | Junio 2023 | Cisco Networking Academy |
 | **NDG Linux Essentials** | Junio 2023 | Cisco Networking Academy |
 
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=TeslaBv&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=TeslaBv&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TeslaBv&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
-
-## 📈 Gráfico de Contribuciones
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TeslaBv&bg_color=0d1117&color=46ca4b&line=46ca4b&point=c9d1d9&area=true&hide_border=true" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-💼 Repositorios Destacados
-<div align="center">
-  <a href="https://github.com/TeslaBv/srl_ui">
-    <img src="https://img.lenso.ai/blog/find-location-from-a-photo/find-location-from-a-photo.jpg?updatedAt=1725441118941&tr=w-100,h-auto" />
-  </a>
-  <a href="https://github.com/TeslaBv/Sustent-arte">
-    <img src="https://cdn.forbes.com.mx/2023/09/Tienda-Muxeres-marketplace-mujeres.webp&tr=w-100,h-auto" />
-  </a>
-</div>
-<br>
-<div align="center">
-
-<br>
-
-<div align="center">
-  
-### 🎯 Portafolio de Proyectos
+## 🎯 Portafolio de proyectos
 
 | Proyecto | Descripción | Stack Principal |
 |----------|-------------|-----------------|
 | 🏛️ **SIOX** | Modernización del Sistema de Ingresos de Oaxaca, del análisis de procesos a la implementación FullStack | Java 21, Spring Boot, Angular 21, Oracle |
 | 🎟️ **LoyalSync** | SaaS multitenant para programas de fidelización, puntos, sellos y recompensas | Angular, NestJS, PostgreSQL, Docker |
 | 🏢 **Sistema ERP** | Solución empresarial integral con microservicios | Angular 19, NestJS, PostgreSQL, Docker |
-| 📱 **App Visión Artificial** | Identificación de entornos con Deep Learning | Ionic 8, TensorFlow, Flask, Angular |
-| 🛒 **Marketplace SustentArte** | E-commerce para artesanos con PayPal | Angular, NestJS, MySQL, JWT |
-| 🤖 **Detección de Gestos** | Control por gestos con ML en navegador | Angular, TensorFlow Lite |
+| 📱 [**App de visión artificial**](https://github.com/TeslaBv/srl_ui) | Identificación de entornos con Deep Learning | Ionic 8, TensorFlow, Flask, Angular |
+| 🛒 [**Marketplace SustentArte**](https://github.com/TeslaBv/Sustent-arte) | E-commerce para artesanos con PayPal | Angular, NestJS, MySQL, JWT |
+| 🤖 [**Detección de gestos**](https://github.com/TeslaBv/gesture_detection) | Control por gestos con ML en navegador | Angular, TensorFlow Lite |
 | 📊 **Sistema Control Archivos** | Modernización digital para SEMOVI | Angular 17, Python, MySQL |
 
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ## 🎓 Educación
-
-<div align="center">
 
 | 📚 Título | 🏫 Institución | 📅 Periodo |
 |-----------|----------------|-----------|
 | **Ingeniería en Software y Sistemas Computacionales** | Universidad La Salle Oaxaca | 2021 - 2025 |
 | **Técnico en Programación (Físico/Matemático)** | CBTIS 150 Carlos M. de Bustamante | 2018 - 2021 |
 
-</div>
+## 📫 Contacto
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+Me interesa colaborar en proyectos de desarrollo de software y conversar sobre arquitectura, seguridad e inteligencia artificial.
 
-## 📫 ¡Conectemos!
-
-<div align="center">
-  
-  Siempre estoy interesado en colaborar en proyectos emocionantes, discutir nuevas tecnologías o simplemente tener una buena conversación sobre desarrollo de software.
-  
-  <br>
-  
-  <a href="https://www.linkedin.com/in/hiram-cruz-fabian">
-    <img src="https://img.shields.io/badge/Conecta_en_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:cruzfabianhiram@email.com">
-    <img src="https://img.shields.io/badge/Envíame_un_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/TeslaBv">
-    <img src="https://img.shields.io/badge/Sígueme_en_GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  
-</div>
-
-<br>
-
-  <br>
-  
-  <i>"¡A producción... y más allá!"</i> 👾🚀
-  
-  <br><br>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+[LinkedIn](https://www.linkedin.com/in/hiram-cruz-fabian) · [GitHub](https://github.com/TeslaBv) · [Correo](mailto:cruzfabianhiram@email.com)
