@@ -54,49 +54,26 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 👨‍💻 Sobre Mí
+## 👨‍💻 Sobre mí
 
-```typescript
-const hiramCruz = {
-    ubicacion: "Oaxaca, México 🇲🇽",
-    rol: "Ingeniero de Software FullStack",
-    empresa: "LoyalSync",
-    proyectoActual: "LoyalSync · plataforma de fidelización multitenant",
-    educacion: "Ingeniería en Software y Sistemas Computacionales",
-    universidad: "Universidad La Salle Oaxaca",
-    
-    Acreditaciones: [
-        "CCNA v7: Enterprise Networking, Security, and Automation",
-        "CCNA v7: Switching, Routing, and Wireless Essentials",
-        "CyberOps Associate",
-        "CCNA v7: Introduction to Networks",
-        "NDG Linux Essentials"
-    ],
-    
-    enfoquesActuales: [
-        "Angular 19 con Standalone Components",
-        "Docker & Containerización",
-        "Integración de IA con TensorFlow"
-    ],
-    
-    intereses: [
-        "Arquitectura de Software",
-        "Visión por Computadora",
-        "Seguridad Informática",
-        "DevOps",
-        "Deep Learning"
-    ],
-    
-    idiomas: {
-        español: "Nativo",
-        ingles: "B2"
-    },
-};
-```
+Soy ingeniero de software en Oaxaca, México. Desarrollo soluciones de extremo a extremo: desde el análisis de procesos y la experiencia de usuario hasta las APIs y la persistencia de datos.
+
+Actualmente trabajo como **FullStack Developer en SIOX**, donde participo en la modernización del Sistema de Ingresos de Oaxaca con **Java 21, Spring Boot, Angular 21 y Oracle**. También soy **cofundador y Frontend Lead de LoyalSync**, una plataforma SaaS de fidelización para comercios.
+
+Me interesan la arquitectura de software, la seguridad, DevOps y la inteligencia artificial. Soy egresado de **Ingeniería en Software y Sistemas Computacionales** de la Universidad La Salle Oaxaca; hablo español e inglés (B2).
 
 <details>
 <summary><b>🎯 Lo Que Hago</b></summary>
 <br>
+
+### 💼 FullStack Developer — SIOX, Sistema de Ingresos de Oaxaca (marzo de 2026 - actualidad)
+
+Participo en la modernización del sistema de ingresos de Oaxaca, desde el análisis de procesos y reglas de negocio hasta la implementación de funcionalidades de frontend y backend.
+
+- Desarrollo servicios en **Java 21 y Spring Boot**, con separación entre API de dominio y capa de datos; la comunicación entre ambas usa OpenFeign.
+- Trabajo con **Oracle, Spring Data JPA y Flyway** para persistencia y migraciones de datos.
+- Construyo interfaces en **Angular 21 y TypeScript**, con PrimeNG y Tailwind CSS.
+- Documento procesos con BPMN, requisitos, reglas de negocio, matriz de roles y flujos AS-IS/TO-BE para orientar la migración.
 
 ### 💼 Cofundador y Frontend Lead — LoyalSync (marzo de 2026 - actualidad)
 
@@ -106,16 +83,6 @@ Plataforma SaaS de fidelización que permite a los comercios gestionar clientes,
 - Diseño paneles de indicadores y reportes para que cada comercio consulte el desempeño de su programa.
 - Integro el frontend con la API mediante `HttpClient`, RxJS e interceptores para autenticación y manejo de errores.
 - Colaboro en la definición de flujos de clientes, personal y administradores, con atención a usabilidad, rendimiento y seguridad.
-
-### 💼 Analista de Migracion del Sitema de Ingresos de Oaxaca (Marzo 2026 - Actualidad)
-
-**Analistas de Migracion**
-
-- ☁️ **MODELO**: Analisis basado en el modelo BPMN (Buisness Process Model Notatin)
-- 📊 **Actividades**: Analisis directo con negocio, para la extraccion de Requerimientos y Reglas de Negocio
-- 💻 **Documentacion**: Generacion de Documento de Requerimientos, Reglas de Negocios, Matriz de Roles, Documentos AS-IS y TO-BE.
-- 📔 **Diagramas**: Generacion de Diagramas de Casos de unos y Actividadaes
-
 ### 💼 FullStack Developer - Cosmos SoftWorks (Septiembre 2025 - Marzo 2026)
 
 **Desarrollador FullStack en Sistema ERP**
@@ -201,25 +168,25 @@ Interfaz web experimental para control mediante gestos faciales y manuales.
   <img src="https://skillicons.dev/icons?i=angular,typescript,javascript,html,css,sass,tailwind,bootstrap,materialui,ionic,figma" />
 </a>
 
-**Frameworks y librerías**: Angular, Ionic 8 (Capacitor), Tailwind CSS, PrimeNG, Angular Material, Bootstrap 5, RxJS, Angular HttpClient
+**Frameworks y librerías**: Angular 21, Ionic 8 (Capacitor), Tailwind CSS, PrimeNG, Angular Material, Bootstrap 5, RxJS, Angular HttpClient
 
 ---
 
 ### ⚙️ Backend & Microservicios
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nestjs,nodejs,python,flask,docker,nginx,rabbitmq,redis" />
+  <img src="https://skillicons.dev/icons?i=java,spring,nestjs,nodejs,python,flask,docker,nginx" />
 </a>
 
-**Tecnologías**: NestJS, Node.js, Python (Flask), microservicios, Docker, Nginx, MinIO, JWT (Passport), guards por rol y bcrypt
+**Tecnologías**: Java 21, Spring Boot, Spring Data JPA, OpenFeign, NestJS, Node.js, Python (Flask), Docker, Nginx, MinIO, JWT (Passport), guards por rol y bcrypt
 
 ---
 
 ### 🗄️ Bases de Datos
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=postgresql,mysql" />
+  <img src="https://skillicons.dev/icons?i=oracle,postgresql,mysql" />
 </a>
 
-**Gestión**: PostgreSQL, MySQL, TypeORM, Diseño de esquemas, Migraciones, Optimización de consultas
+**Gestión**: Oracle, PostgreSQL, MySQL, Spring Data JPA, Flyway, TypeORM, diseño de esquemas y optimización de consultas
 
 ---
 
@@ -301,6 +268,7 @@ Interfaz web experimental para control mediante gestos faciales y manuales.
 
 | Proyecto | Descripción | Stack Principal |
 |----------|-------------|-----------------|
+| 🏛️ **SIOX** | Modernización del Sistema de Ingresos de Oaxaca, del análisis de procesos a la implementación FullStack | Java 21, Spring Boot, Angular 21, Oracle |
 | 🎟️ **LoyalSync** | SaaS multitenant para programas de fidelización, puntos, sellos y recompensas | Angular, NestJS, PostgreSQL, Docker |
 | 🏢 **Sistema ERP** | Solución empresarial integral con microservicios | Angular 19, NestJS, PostgreSQL, Docker |
 | 📱 **App Visión Artificial** | Identificación de entornos con Deep Learning | Ionic 8, TensorFlow, Flask, Angular |
@@ -353,4 +321,3 @@ Interfaz web experimental para control mediante gestos faciales y manuales.
   
   <br><br>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
-
