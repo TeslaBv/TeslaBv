@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hiram%20Adalid%20Cruz%20Fabi%C3%A1n&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=FullStack%20Developer%20%7C%20SIOX%20%26%20LoyalSync&descAlignY=51&descAlign=50" alt="Hiram Adalid Cruz Fabián" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hiram%20Adalid%20Cruz%20Fabián&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=FullStack%20Developer%20%7C%20SIOX%20%26%20LoyalSync&descAlignY=51&descAlign=50" alt="Hiram Adalid Cruz Fabián" />
 </p>
 
 <p align="center">
